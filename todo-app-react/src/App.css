@@ -26,3 +26,11 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+h1 {
+font-size: 12px;
+}
+
+h2 {
+font-size: 12px;
+}
